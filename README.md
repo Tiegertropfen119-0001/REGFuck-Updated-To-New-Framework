@@ -1,3 +1,4 @@
+# ❗ For Educational And Informational Purposes Only ❗
 # REGFuck
 ## Updated to .net framework 4.7.2
 REGFuck is a tool that can corrupt your Windows Registry, leading to all sorts of different effects, including weird themes, errors and of course totally destroyed systems.

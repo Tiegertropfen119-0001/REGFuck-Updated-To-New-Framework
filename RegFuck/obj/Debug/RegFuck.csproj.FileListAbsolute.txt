@@ -1,0 +1,13 @@
+C:\Users\ianka\Desktop\Supernettestool\RegFuck\obj\Debug\RegFuck.Form1.resources
+C:\Users\ianka\Desktop\Supernettestool\RegFuck\obj\Debug\RegFuck.Form2.resources
+C:\Users\ianka\Desktop\Supernettestool\RegFuck\obj\Debug\RegFuck.Form3.resources
+C:\Users\ianka\Desktop\Supernettestool\RegFuck\obj\Debug\RegFuck.Form4.resources
+C:\Users\ianka\Desktop\Supernettestool\RegFuck\obj\Debug\RegFuck.csproj.GenerateResource.cache
+C:\Users\ianka\Desktop\Supernettestool\RegFuck\obj\Debug\RegFuck.csproj.CoreCompileInputs.cache
+C:\Users\ianka\Desktop\Supernettestool\RegFuck\bin\Debug\RegFuck.exe.config
+C:\Users\ianka\Desktop\Supernettestool\RegFuck\bin\Debug\RegFuck.exe
+C:\Users\ianka\Desktop\Supernettestool\RegFuck\bin\Debug\RegFuck.pdb
+C:\Users\ianka\Desktop\Supernettestool\RegFuck\obj\Debug\RegFuck.Properties.Resources.resources
+C:\Users\ianka\Desktop\Supernettestool\RegFuck\obj\Debug\RegFuck.exe
+C:\Users\ianka\Desktop\Supernettestool\RegFuck\obj\Debug\RegFuck.pdb
+C:\Users\ianka\Desktop\Supernettestool\RegFuck\obj\Debug\RegFuck.csproj.AssemblyReference.cache
